@@ -1,1 +1,1 @@
-hello
+In this project we intend to develop a minimal working circuit for the OPT8241 sensor. Ultimately, we want the sensor to work even without its companion chip OPT9221. However, in case that does not succeed we will use OPT9221 as well.
